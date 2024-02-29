@@ -1,0 +1,3 @@
+
+
+Consumidor principal de informaçao.
